@@ -1,0 +1,23 @@
+.classone {
+    background-color:#f7acb9;
+}
+
+.classone.cooler {
+    background-color:#f7acb9;
+    font-size: 24px;
+}
+
+#div1 {
+    font-size: 36px;
+    color: #0000ff
+}
+
+#div2 {
+    background-color: #90ee90;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.classone, .classone.cooler {
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
